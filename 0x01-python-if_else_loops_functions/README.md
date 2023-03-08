@@ -1,1 +1,1 @@
-## if, else,and loops functions in PYTHON3
+## if else loops functions in PYTHON3
