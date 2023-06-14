@@ -1,1 +1,1 @@
-0x10-python-network_0
+# Solutions to tasks on Python - Network #0
